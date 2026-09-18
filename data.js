@@ -938,7 +938,7 @@ const DATA_METODOS = [
 const DATA_CONFIG = [
   ['APP_NAME','Especificaciones Técnicas'],
   ['APP_SUBTITLE','Constancia Project - TMF Rev3 + Cunahuiri Rev1'],
-  ['APP_VERSION','5.1.0'],
+  ['APP_VERSION','v1.0.1 • Developed by Yulmer7h'],
   ['CLIENTE','Hudbay Perú SAC'],
   ['PROYECTO','Constancia Project'],
   ['ELABORADO_POR','Knight Piésold and Co.'],
