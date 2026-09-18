@@ -1,0 +1,16 @@
+{
+  "name": "Especificaciones Técnicas - Constancia",
+  "short_name": "EETT Constancia",
+  "description": "Especificaciones técnicas offline - TMF Rev3 + Cunahuiri Rev1",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#1a365d",
+  "orientation": "any",
+  "lang": "es",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
