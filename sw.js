@@ -1,5 +1,5 @@
 // sw.js — Service Worker para PWA offline
-const CACHE_VERSION = 'v1.0.2';
+const CACHE_VERSION = 'v1.0.3';
 const CACHE_STATIC  = `eett-static-${CACHE_VERSION}`;
 const CACHE_RUNTIME = `eett-runtime-${CACHE_VERSION}`;
 
