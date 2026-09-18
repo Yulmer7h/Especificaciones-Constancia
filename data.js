@@ -1,6 +1,6 @@
 // ============================================================
 // data.js — Datos estáticos embebidos
-// Generado desde: Poblardatos.gs v5.1 - Constancia Project
+// Generado desde: Poblardatos.gs v1.0.1 - Constancia Project
 // Fuentes: TMF Rev3 (2025), TMF Rev2 (2019), Cunahuiri Rev1 (2026)
 // 67 materiales con husos, frecuencias y métodos completos
 // ============================================================
@@ -938,7 +938,7 @@ const DATA_METODOS = [
 const DATA_CONFIG = [
   ['APP_NAME','Especificaciones Técnicas'],
   ['APP_SUBTITLE','Constancia Project - TMF Rev3 + Cunahuiri Rev1'],
-  ['APP_VERSION','v1.0.1 • Developed by Yulmer7h'],
+  ['APP_VERSION','1.0.1 • Developed by Yulmer7h'],
   ['CLIENTE','Hudbay Perú SAC'],
   ['PROYECTO','Constancia Project'],
   ['ELABORADO_POR','Knight Piésold and Co.'],
