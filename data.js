@@ -737,9 +737,13 @@ const DATA_FRECUENCIAS = [
   [51,'Abrasión LA','C 131',50000,'m³',2],
   [51,'Carga Puntual (UCS)','D 5731',50000,'m³',3],
 
-  [52,'Granulometría','D 6913',5000,'m³',1],
-  [52,'Límites Atterberg','D 4318',5000,'m³',2],
-  [52,'Densidad Campo (Nuclear)','D 6938',2000,'m³',3],
+// Material 52: CF-C (Relleno Común)
+  [52, 'Granulometría', 'D 6913', 10000, 'm³', 1],
+  [52, 'Límites de Atterberg', 'D 4318', 10000, 'm³', 2],
+  [52, 'Compactación en laboratorio (Proctor)', 'D 1557', 25000, 'm³', 3],
+  [52, 'Densidad/humedad de campo (Método nuclear)', 'D 6938', 2500, 'm³', 4],
+  [52, 'Densidad/humedad de campo (Cono de arena)', 'D 1556/2216', 10, 'ensayos D6938', 5],
+  [52, 'Densidad/humedad de campo (Reemplazo por agua)', 'D 5030', 5000, 'm³', 6],
 
   [53,'Granulometría','D 6913',5000,'m³',1],
   [53,'Límites Atterberg','D 4318',5000,'m³',2],
