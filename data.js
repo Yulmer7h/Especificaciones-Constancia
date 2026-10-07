@@ -748,7 +748,8 @@ const DATA_FRECUENCIAS = [
   [53,'Granulometría','D 6913',5000,'m³',1],
   [53,'Límites Atterberg','D 4318',5000,'m³',2],
 
-  [54,'Granulometría','D 6913',5000,'m³',1],
+  [54,'Granulometría','D 6913',10000,'m³',1],
+  [54,'Límites Atterberg','D 4318',10000,'m³',2],
 
   [55,'Granulometría','D 6913',5000,'m³',1],
   [55,'Límites Atterberg','D 4318',5000,'m³',2],
